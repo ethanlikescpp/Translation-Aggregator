@@ -5,3 +5,5 @@
 *.7z
 build
 build-*
+*.gz
+*.bin
